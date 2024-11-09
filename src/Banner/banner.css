@@ -1,0 +1,11 @@
+.bnr-img{
+    background-image: url('../assets/bg-shadow.png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: full;
+    height: 460px;
+}
+
+.bn{
+    background-color:rgb(231, 254, 41);
+}

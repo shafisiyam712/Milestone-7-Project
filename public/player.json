@@ -1,0 +1,134 @@
+[
+    {
+        "playerId": 1,
+        "name": "Ricky Ponting",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/fpM5PVg/23-Ponting03.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "None",
+        "rating": 87.4,
+        "biddingPrice": 1200000
+    },
+    {
+        "playerId": 2,
+        "name": "Virat Kholi",
+        "country": "India",
+        "image": "https://i.ibb.co.com/QJNHJ13/2493384.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm-medium Fast",
+        "rating": 91.2,
+        "biddingPrice": 2500000
+    },
+    {
+        "playerId": 3,
+        "name": "Kene Wilson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/gvYn7Rr/wp5739697.webp",
+        "role": "Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "None",
+        "rating": 83.6,
+        "biddingPrice": 1000000
+    },
+    {
+        "playerId": 4,
+        "name": "AB Devilies",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/R6YsD5j/1620299319.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "None",
+        "rating": 90.5,
+        "biddingPrice": 1800000
+    },
+    {
+        "playerId": 5,
+        "name": "Cris Gayle",
+        "country": "West Indies",
+        "image": "https://i.ibb.co.com/K70PR96/chris-gayle.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "left-arm Off-break",
+        "rating": 92.0,
+        "biddingPrice": 900000
+    },
+    {
+        "playerId": 6,
+        "name": "Shakib Al-Hassan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/jLcB8f8/Shakib-Al-Hasan-WC-19.jpg",
+        "role": "All-Rounder",
+        "battingType": "left-hand Bat",
+        "bowlingType": "left-arm Off-break",
+        "rating": 85.3,
+        "biddingPrice": 2200000
+    },
+    {
+        "playerId": 7,
+        "name": "Michel Stark",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/rGrMTZH/Mitchell-Starc-Wiki-Bio-Net-Worth.jpg",
+        "role": "Bowler",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Left-arm Fast-Medium",
+        "rating": 92.7,
+        "biddingPrice": 1100000
+    },
+    {
+        "playerId": 8,
+        "name": "Mohammed Amir",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/tsxs1L6/Mohammad-Amir-1.webp",
+        "role": "Bowler",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Left-arm fast",
+        "rating": 88.1,
+        "biddingPrice": 1600000
+    },
+    {
+        "playerId": 9,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/4V888H1/Rashid-Khan-Sun-Risers-Hyderabad-880x618.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Legbreak",
+        "rating": 90.5,
+        "biddingPrice": 950000
+    },
+    {
+        "playerId": 10,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co.com/JpdW750/th.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm medium-Fast",
+        "rating": 90.5,
+        "biddingPrice": 950000
+    },
+    {
+        "playerId": 11,
+        "name": "Lasith Malinga",
+        "country": "Srilanka",
+        "image": "https://i.ibb.co.com/GdyMKtT/159237.webp",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Fast",
+        "rating": 90.5,
+        "biddingPrice": 950000
+    },
+    {
+        "playerId": 12,
+        "name": "Sikandar Raza",
+        "country": "Zimbabwe",
+        "image": "https://i.ibb.co.com/1bHsFWY/th-1.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Off-break",
+        "rating": 90.5,
+        "biddingPrice": 950000
+    }
+]

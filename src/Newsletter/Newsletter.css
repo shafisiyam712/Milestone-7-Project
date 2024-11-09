@@ -1,0 +1,12 @@
+.news-bg{
+    background-image: url('../assets/bg-shadow.png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: center;
+    width: full;
+    height: 192px;
+}
+
+.btn-bg{
+    background-image: linear-gradient(to right, #f40a99, #ff366f, #ff6848, #ff9725, #f0c016);
+}
